@@ -22,12 +22,13 @@ You can try the app locally using:
 6-📥 Real-time review input for prediction
 
 🛠️ Installation
-Clone the repo:
-`git clone [(https://github.com/ayberkpalta/LSTM-sentiment/tree/main)]`
-cd `llstm_app.py `
+1-Clone the repo:
+`git clone https://github.com/ayberkpalta/LSTM-sentiment.git
+cd LSTM-sentiment`
+cd `lstm_app.py `
 
 
-Install requirements:
+2-Install requirements:
 `pip install -r requirements.txt`
 
 Download GloVe embeddings (100d) from  `https://nlp.stanford.edu/projects/glove/  `and place it in the project directory.
